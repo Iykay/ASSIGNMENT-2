@@ -1,0 +1,345 @@
+.ogun {
+		position: absolute;
+		width: 242px;
+		height: 213px;
+		left: 17px;
+		top: 1183px;
+		overflow: visible;
+	}
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+#caption {
+    text-align: center;
+}
+/*.overlay {
+  position: static;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}*/
+
+.ogun:hover + .text{
+  opacity: 1;
+    display: list-item;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+    display: none;
+    z-index: -1;
+}
+
+	#Layer_40 {
+		position: absolute;
+		width: 220px;
+		height: 190px;
+		left: 304px;
+		top: 1365px;
+		overflow: visible;
+	}
+	#Layer_38 {
+		position: absolute;
+		width: 103px;
+		height: 150px;
+		left: 563px;
+		top: 1425px;
+		overflow: visible;
+	}
+	#Layer_37 {
+		position: absolute;
+		width: 320px;
+		height: 272px;
+		left: 311px;
+		top: 1365px;
+		overflow: visible;
+	}
+	#Layer_36 {
+		position: absolute;
+		width: 109px;
+		height: 127px;
+		left: 603px;
+		top: 1486px;
+		overflow: visible;
+	}
+	#Layer_35 {
+		position: absolute;
+		width: 165px;
+		height: 140px;
+		left: 350px;
+		top: 1500px;
+		overflow: visible;
+	}
+	#Layer_33 {
+		position: absolute;
+		width: 101px;
+		height: 103px;
+		left: 497px;
+		top: 1431px;
+		overflow: visible;
+	}
+	#Layer_39 {
+		position: absolute;
+		width: 205px;
+		height: 49px;
+		left: 22px;
+		top: 1338px;
+		overflow: visible;
+	}
+	#Layer_32 {
+		position: absolute;
+		width: 89px;
+		height: 133px;
+		left: 499px;
+		top: 1336px;
+		overflow: visible;
+	}
+	#Layer_31 {
+		position: absolute;
+		width: 123px;
+		height: 146px;
+		left: 530px;
+		top: 1294px;
+		overflow: visible;
+	}
+	#Layer_30 {
+		position: absolute;
+		width: 117px;
+		height: 140px;
+		left: 606px;
+		top: 1330px;
+		overflow: visible;
+	}
+	#Layer_29 {
+		position: absolute;
+		width: 138px;
+		height: 142px;
+		left: 180px;
+		top: 1175px;
+		overflow: visible;
+	}
+	#Layer_28 {
+		position: absolute;
+		width: 116px;
+		height: 99px;
+		left: 289px;
+		top: 1174px;
+		overflow: visible;
+	}
+	#Layer_27 {
+		position: absolute;
+		width: 212px;
+		height: 238px;
+		left: 224px;
+		top: 1209px;
+		overflow: visible;
+	}
+	#Layer_26 {
+		position: absolute;
+		width: 217px;
+		height: 233px;
+		left: 298px;
+		top: 1235px;
+		overflow: visible;
+	}
+	#Layer_24 {
+		position: absolute;
+		width: 234px;
+		height: 268px;
+		left: 22px;
+		top: 1038px;
+		overflow: visible;
+	}
+	#Layer_23 {
+		position: absolute;
+		width: 428px;
+		height: 280px;
+		left: 24px;
+		top: 916px;
+		overflow: visible;
+	}
+	#Layer_22 {
+		position: absolute;
+		width: 207px;
+		height: 273px;
+		left: 648px;
+		top: 1316px;
+		overflow: visible;
+	}
+	#Layer_21 {
+		position: absolute;
+		width: 301px;
+		height: 211px;
+		left: 607px;
+		top: 1169px;
+		overflow: visible;
+	}
+	#Layer_20 {
+		position: absolute;
+		width: 313px;
+		height: 283px;
+		left: 345px;
+		top: 1090px;
+		overflow: visible;
+	}
+	#Layer_19 {
+		position: absolute;
+		width: 112px;
+		height: 124px;
+		left: 515px;
+		top: 1018px;
+		overflow: visible;
+	}
+	#Layer_18 {
+		position: absolute;
+		width: 336px;
+		height: 193px;
+		left: 536px;
+		top: 1021px;
+		overflow: visible;
+	}
+	#Layer_17 {
+		position: absolute;
+		width: 265px;
+		height: 255px;
+		left: 733px;
+		top: 894px;
+		overflow: visible;
+	}
+	#Layer_16 {
+		position: absolute;
+		width: 351px;
+		height: 393px;
+		left: 805px;
+		top: 986px;
+		overflow: visible;
+	}
+	#Layer_15 {
+		position: absolute;
+		width: 265px;
+		height: 255px;
+		left: 733px;
+		top: 894px;
+		overflow: visible;
+	}
+	#Layer_14 {
+		position: absolute;
+		width: 306px;
+		height: 456px;
+		left: 1077px;
+		top: 800px;
+		overflow: visible;
+	}
+	#Layer_13 {
+		position: absolute;
+		width: 179px;
+		height: 227px;
+		left: 976px;
+		top: 774px;
+		overflow: visible;
+	}
+	#Layer_12 {
+		position: absolute;
+		width: 294px;
+		height: 378px;
+		left: 753px;
+		top: 629px;
+		overflow: visible;
+	}
+	#Layer_11 {
+		position: absolute;
+		width: 206px;
+		height: 259px;
+		left: 628px;
+		top: 619px;
+		overflow: visible;
+	}
+	#Layer_10 {
+		position: absolute;
+		width: 317px;
+		height: 417px;
+		left: 115px;
+		top: 533px;
+		overflow: visible;
+	}
+	#Layer_9 {
+		position: absolute;
+		width: 315px;
+		height: 267px;
+		left: 677px;
+		top: 566px;
+		overflow: visible;
+	}
+	#Layer_8 {
+		position: absolute;
+		width: 463px;
+		height: 387px;
+		left: 129px;
+		top: 775px;
+		overflow: visible;
+	}
+	#Layer_7 {
+		position: absolute;
+		width: 339px;
+		height: 318px;
+		left: 433px;
+		top: 752px;
+		overflow: visible;
+	}
+	#Layer_6 {
+		position: absolute;
+		width: 379px;
+		height: 463px;
+		left: 1105px;
+		top: 479px;
+		overflow: visible;
+	}
+	#Layer_5 {
+		position: absolute;
+		width: 350px;
+		height: 350px;
+		left: 870px;
+		top: 522px;
+		overflow: visible;
+	}
+	#Layer_3 {
+		position: absolute;
+		width: 259px;
+		height: 278px;
+		left: 529px;
+		top: 527px;
+		overflow: visible;
+	}
+	#Layer_2 {
+		position: absolute;
+		width: 282px;
+		height: 292px;
+		left: 301px;
+		top: 545px;
+		overflow: visible;
+	}
+	#Layer_1 {
+		position: absolute;
+		width: 323px;
+		height: 292px;
+		left: 195px;
+		top: 460px;
+		overflow: visible;
+	}
